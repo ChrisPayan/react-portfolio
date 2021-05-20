@@ -1,0 +1,121 @@
+{
+  "main": {
+    "name": "Christian Payan's Porfolio",
+    "description": "I am a web development engineer and I use react and vue.js to develop pages",
+    "image": "cpayan.jpg",
+    "bio": "I hope I can contribute to your project as much as you contribute to mine in this never ending cycle of coding madness we call development",
+    "contactmessage": "Hi, if youd like to get in contact with me feel free to send me an email or text at:",
+    "email": "payanstocks@gmail.com",
+    "phone": "6198606884",
+    "github": "https://github.com/ChrisPayan",
+    "project": "",
+    "address": {
+      "street": "",
+      "city": "Chula Vista",
+      "state": "California",
+      "zip": "91910"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/christianpayan_",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ChrisPayan",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I have introductory skill set that includes team management, web development, data structures, and algorithmic processes",
+    "education": [
+      {
+        "school": "San Diego State University",
+        "degree": "Bachelors in Computer Science",
+        "graduated": "May 2022",
+        "description": "Taking the longer road around Ive exposed myself to a large variety of people and qualities and eventually lead me to stick with Computer Science"
+      },
+      {
+        "school": "University of California San Diego Extension Full Stack",
+        "degree": "Full Stack Certificate",
+        "graduated": "July 2021",
+        "description": "My experience in this program as phenomenal, giving me the skills to be able to take daunting task and projects and still find a way to stay on top"
+      }
+    ],
+    "work": [
+      {
+        "company": "Multitaskr",
+        "title": "Operation Admin",
+        "years": "September 2020 - Present",
+        "description": "Being one of the first job where my position posed responsibilities that effect a large portion of my department. I learn a lot of the team leading and team communicating skill from this position"
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Online-Offline-BudgetTracker",
+        "category": "A quick like financial helper app",
+        "image": "Picture2.jpg",
+        "url": "https://on-off-budgetapp.herokuapp.com/"
+      },
+      {
+        "title": "Fitness Tracker App",
+        "category": "A quick fitness routine scheduler app",
+        "image": "codingImageFour.jpg",
+        "url": "https://fitness-tracker-cp.herokuapp.com/"
+      },
+      {
+        "title": "CacheApp",
+        "category": "Financial App with a small team",
+        "image": "CacheApp.png",
+        "url": "cache-app-io.herokuapp.com/"
+      },
+      {
+        "title": "Discord RPG bot",
+        "category": "Gaming",
+        "image": "Picture1.jpg",
+        "url": "cache-app-io.herokuapp.com/"
+      },
+      {
+        "title": "Note Tracker App",
+        "category": "Sticky Note App",
+        "image": "Picture4.jpg",
+        "url": "cache-app-io.herokuapp.com/"
+      },
+      {
+        "title": "RocketTrades",
+        "category": "Financial App with a small team",
+        "image": "Picture5.jpg",
+        "url": "cache-app-io.herokuapp.com/"
+      },
+      {
+        "title": "CacheApp",
+        "category": "Financial App with a small team",
+        "image": "Picture7.jpg",
+        "url": "cache-app-io.herokuapp.com/"
+      },
+      {
+        "title": "CacheApp",
+        "category": "Financial App with a small team",
+        "image": "Picture8.jpg",
+        "url": "cache-app-io.herokuapp.com/"
+      }
+    ]
+  }
+}
