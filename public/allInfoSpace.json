@@ -1,6 +1,6 @@
 {
   "main": {
-    "name": "Christian Payan Porfolio",
+    "name": "Christian Payan's Porfolio",
     "description": "I am a web development engineer and I use react and vue.js to develop pages",
     "image": "cpayan.jpg",
     "bio": "I hope I can contribute to your project as much as you contribute to mine in this never ending cycle of coding madness we call development",
@@ -18,16 +18,6 @@
     "website": "",
     "resumedownload": "",
     "social": [
-      {
-        "name": "facebook",
-        "url": "https://github.com/nordicgiant2/react-nice-resume",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
@@ -73,52 +63,58 @@
       {
         "name": "JavaScript",
         "level": "80%"
-      },
-      {
-        "name": "Python",
-        "level": "10%"
-      },
-      {
-        "name": "ReactJs",
-        "level": "50%"
-      },
-      {
-        "name": "VueJs",
-        "level": "5%"
-      },
-      {
-        "name": "CSS",
-        "level": "90%"
-      },
-      {
-        "name": "C++",
-        "level": "40%"
-      },
-      {
-        "name": "JAVA",
-        "level": "50%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "01.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Online-Offline-BudgetTracker",
+        "category": "A quick like financial helper app",
+        "image": "Picture2.jpg",
+        "url": "https://on-off-budgetapp.herokuapp.com/"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "02.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Fitness Tracker App",
+        "category": "A quick fitness routine scheduler app",
+        "image": "codingImageFour.jpg",
+        "url": "https://fitness-tracker-cp.herokuapp.com/"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "03.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "CacheApp",
+        "category": "Financial App with a small team",
+        "image": "CacheApp.png",
+        "url": "cache-app-io.herokuapp.com/"
+      },
+      {
+        "title": "Discord RPG bot",
+        "category": "Gaming",
+        "image": "Picture1.jpg",
+        "url": "cache-app-io.herokuapp.com/"
+      },
+      {
+        "title": "Note Tracker App",
+        "category": "Sticky Note App",
+        "image": "Picture4.jpg",
+        "url": "cache-app-io.herokuapp.com/"
+      },
+      {
+        "title": "RocketTrades",
+        "category": "Financial App with a small team",
+        "image": "Picture5.jpg",
+        "url": "cache-app-io.herokuapp.com/"
+      },
+      {
+        "title": "CacheApp",
+        "category": "Financial App with a small team",
+        "image": "Picture7.jpg",
+        "url": "cache-app-io.herokuapp.com/"
+      },
+      {
+        "title": "CacheApp",
+        "category": "Financial App with a small team",
+        "image": "Picture8.jpg",
+        "url": "cache-app-io.herokuapp.com/"
       }
     ]
   }

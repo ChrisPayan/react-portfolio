@@ -22,6 +22,19 @@ class Footer extends Component {
             <div className="twelve columns">
               <ul className="social-links">{networks}</ul>
             </div>
+            <ul className="copyright">
+              <li>&copy; Copyright 2021 Christian Payan</li>
+              <li>
+                Powered by{" "}
+                <a title="Styleshout" href="http://www.styleshout.com/">
+                  Styleshout
+                  </a>
+                {" "}and{" "}
+                <a title="React" href="https://reactjs.org/">
+                  React
+                </a>
+              </li>
+            </ul>
           </Fade>
 
           <div id="go-top">

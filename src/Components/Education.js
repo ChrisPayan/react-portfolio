@@ -40,19 +40,6 @@ class Education extends Component {
       );
     });
 
-    const skills = this.props.data.skills.map((skills) => {
-      const backgroundColor = this.getRandomColor();
-      const className = "bar-expand " + skills.name.toLowerCase();
-      const width = skills.level;
-
-      return (
-        <li key={skills.name}>
-          <span style={{ width, backgroundColor }} className={className}></span>
-          <em>{skills.name}</em>
-        </li>
-      );
-    });
-
     return (
       <section id="education">
         <Slide left duration={1300}>
@@ -91,10 +78,31 @@ class Education extends Component {
               </h1>
             </div>
 
-            <div className="columns main-col">
+            <div className="nine columns">
+              <div
+                className="bgrid-quarters s-bgrid-thirds cf"
+              >
+                <ul>
+                  <Slide left duration={1300}>
+                    <li><i className="fab fa-js fa-5x"></i></li>
+                    <li><i className="fab fa-react fa-5x"></i></li>
+                    <li><i className="fab fa-npm fa-5x"></i></li>
+                    <li><i className="fab fa-python fa-5x"></i></li>
+                  </Slide>
+                  <Slide right duration={1300}>
+                    <li><i className="fab fa-java fa-5x"></i></li>
+                    <li><i className="fab fa-html5 fa-5x"></i></li>
+                    <li><i className="fab fa-css3-alt fa-5x"></i></li>
+                    <li><i className="fab fa-node-js fa-5x"></i></li>
+                  </Slide>
+                  <Slide left duration={1300}>
+                    <li><i className="fab fa-vuejs fa-5x"></i></li>
+                    <li><i className="fab fa-github fa-5x"></i></li>
+                    <li><i className="fab fa-git fa-5x"></i></li>
+                    <li><i className="fab fa-gitlab fa-5x"></i></li>
+                  </Slide>
 
-              <div className="bars">
-
+                </ul>
               </div>
             </div>
           </div>
