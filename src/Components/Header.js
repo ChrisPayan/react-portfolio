@@ -13,7 +13,7 @@ class Header extends Component {
 
     return (
       <header id="home">
-        {/* <ParticlesBg type="circle" bg={true} /> */}
+        <ParticlesBg type="random" bg={true} />
 
         <nav id="nav-wrap">
           <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
@@ -37,8 +37,8 @@ class Header extends Component {
             </li>
 
             <li>
-              <a className="smoothscroll" href="#resume">
-                Resume
+              <a className="smoothscroll" href="#Education">
+                Education
               </a>
             </li>
 
