@@ -39,7 +39,7 @@
     "skillmessage": "I have introductory skill set that includes team management, web development, data structures, and algorithmic processes",
     "education": [
       {
-        "school": "San Diego State University",
+        "school": "University Of Arizona",
         "degree": "Bachelors in Computer Science",
         "graduated": "May 2022",
         "description": "Taking the longer road around Ive exposed myself to a large variety of people and qualities and eventually lead me to stick with Computer Science"
@@ -54,8 +54,8 @@
     "work": [
       {
         "company": "Multitaskr",
-        "title": "Operation Admin",
-        "years": "September 2020 - Present",
+        "title": "Junior Software Engineer",
+        "years": "September 2021 - September 2023",
         "description": "Being one of the first job where my position posed responsibilities that effect a large portion of my department. I learn a lot of the team leading and team communicating skill from this position"
       }
     ],
